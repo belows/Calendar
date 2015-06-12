@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Black.NoTitleBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+    <style name="CalendarCellStyle">
+        <item name="calendar_text_size">22sp</item>
+    </style>
+</resources>

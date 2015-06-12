@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarCell">
+        <attr name="calendar_text_size" format="dimension" />
+        <attr name="lunar_text_size" format="dimension" />
+        <attr name="holiday_text_size" format="dimension" />
+        <attr name="calendar_text_color" format="color" />
+        <attr name="lunar_text_color" format="color" />
+        <attr name="holiday_text_color" format="color" />
+        <attr name="holiday_bg_color" format="color" />
+        <attr name="event_mark_color" format="color" />
+        <attr name="event_mark_radius" format="dimension" />
+        <attr name="event_mark_margin_bottom" format="dimension" />
+    </declare-styleable>
+</resources>
